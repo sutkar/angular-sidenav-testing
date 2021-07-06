@@ -1,0 +1,45 @@
+p {
+  font-family: Lato;
+}
+.example-container {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #eee;
+}
+.test {
+  background-color: white;
+}
+
+.sidenavcontent {
+  background-color: red;
+}
+
+.topBox {
+  position: relative;
+  background-color: midnightblue;
+  display: block;
+  color: white;
+  padding-left: 100;
+}
+.bottomBox {
+  width: 200;
+  padding: 10 rem;
+  position: absolute;
+  background-color: midnightblue;
+  color: white;
+  vertical-align: bottom;
+  bottom: 0;
+}
+
+.blueBox {
+  height: 1000;
+}
+input {
+  background-color: midnightblue;
+}
+h6 {
+  margin-top: 10px;
+}
